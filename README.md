@@ -1,5 +1,10 @@
 # labelme
 #separte the test and train
+
+
+
+
+
 import os
 import shutil
 img_dir = "C:/Users/lirui/desktop/data/train/imgs"
